@@ -114,4 +114,3 @@ Apigee donated the code to create the swagger-node project in 2015.
  limitations under the License.
 
 ---
-<img src="http://swagger.io/wp-content/uploads/2016/02/logo.jpg"/>
