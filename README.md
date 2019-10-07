@@ -2,8 +2,8 @@
 
 - Skeleton project for Swagger
 
-Ref: [Swagger module for node.js](https://github.com/swagger-api/swagger-node)
-
+## [Swagger module for node.js](https://github.com/swagger-api/swagger-node)
+-----------------------------
 [![Build Status](https://travis-ci.org/swagger-api/swagger-node.svg?branch=master)](https://travis-ci.org/swagger-api/swagger-node) 
 [![NPM version](https://badge.fury.io/js/swagger.png)](http://badge.fury.io/js/swagger)
 [![Dependency Status](https://david-dm.org/swagger-api/swagger-node/status.svg)](https://david-dm.org/swagger-api/swagger-node)
